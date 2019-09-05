@@ -8,7 +8,15 @@ Summary Code
 - Procedural
 - OPP: Processing-JAVA Constructor, Pure-Java Classes
 
-Dynamic Code 
+Using Computer to Calculate ratios into variables
+- Ratios for GUI, start coding to get a sense of those ideas
+- Simple Console checking of math formulae
+- Verification of visual data (similar to paper folding for answers in "Paired Game" below)
+- Transfer Case study information to pseudocode and variables
+- Linked In Soft Skills, develop portfolio
+
+
+Dynamic Code (Procedural) 
 ```
 
 ```
@@ -21,7 +29,7 @@ Progressions
 - Ratio Coordinates for FullScreen()
   - Paper Folding Activity (fractions of 1/2, 1/3, 1/5, etc., to ~16th)
   - Paired Game: draw dot on paper, guess ratio coordinate, paper fold answer
-- Using Case Study, section out pieces to code (create to do list)
+- Using Case Study label ratio coordinates by sectioning out pieces to code (create to do list)
   - Redraw on separate sheet of paper and record ratio coordinates
 
 - Pseudocode GUI (Objects-as-2D Shapes & Features-as-behaviors)
