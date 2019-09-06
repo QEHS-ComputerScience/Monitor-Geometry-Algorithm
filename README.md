@@ -35,9 +35,11 @@ Progressions
 - Ratio Coordinates for FullScreen()
   - Paper Folding Activity (fractions of 1/2, 1/3, 1/5, etc., to ~16th)
   - Paired Game: draw dot on paper, guess ratio coordinate, paper fold answer
+  - Paper Folding skill: pinch folding to find coordinates
 - Using Case Study label ratio coordinates by sectioning out pieces to code (create to do list)
   - Redraw on separate sheet of paper and record ratio coordinates
-
+  - In Processing-Java all rectangles need 4 parameters, default rect-draw Mode (width-coordinate, height-coordinate, width-rectangle, height-rectangle)
+  - Create Chart for all rectangles in GUI
 - Pseudocode GUI (Objects-as-2D Shapes & Features-as-behaviors)
 - Use variables to calculate (casting and formatting to console)
 
