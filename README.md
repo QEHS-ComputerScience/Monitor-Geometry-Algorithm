@@ -16,9 +16,15 @@ Using Computer to Calculate ratios into variables
 - Linked In Soft Skills, develop portfolio
 
 
-Dynamic Code (Procedural) 
+Dynamic Code (Procedural)
 ```
+//Global variables
+//All Variables for ratio arithmetic declared here
 
+void setup() {
+  fullScreen(); //Delivers displayWidth and displayHeight variables (width and height key variables)
+  //Global Variables populated here, casted and formatted to console (visual data verified in Canvas)
+}
 ```
 
 Notes
